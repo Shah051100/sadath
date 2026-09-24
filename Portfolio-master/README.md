@@ -74,3 +74,24 @@ You will find all the components used and you can edit your information accordin
 Give a ⭐ if you like this website!
 
 <a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+
+## Kashmir Integrated Farm Hub deck
+
+The root route now opens a presentation-ready, 10-slide web deck for Saadat's JKEDI Startup Idea Challenge 2.0 pitch.
+
+```bash
+npm install
+npm start
+```
+
+Open `http://localhost:3000/` (or `/deck`). The original portfolio remains available under `/portfolio`, `/about`, `/project`, and `/resume`.
+
+### Deck controls
+
+- Use the arrow buttons, slide rail, or keyboard arrows to move between slides.
+- Press `N` to open speaker notes.
+- Press `F` to enter presentation mode.
+- Use **Print / PDF** to print all 10 slides through the browser print dialog.
+- Slides 01, 02, and 05 include honest upload slots for Saadat's real Mattan/orchard/founder photos. Images are previewed locally in the browser and are not sent anywhere.
+
+The deck intentionally keeps proposed trout culture, the multi-level farm complex, pilot economics, and 2030 targets clearly labeled as conditional, conceptual, assumptions, or long-term vision.
