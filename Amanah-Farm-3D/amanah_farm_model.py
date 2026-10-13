@@ -32,7 +32,14 @@ from mathutils import Vector
 PROJECT_NAME = "Amanah Farm — Manzno Sheep Shed"
 LOCATION = "Manzno village, Anantnag, Kashmir, India"
 
-ROOT = Path(__file__).resolve().parent if "__file__" in globals() else Path.cwd()
+if "__file__" in globals():
+    ROOT = Path(__file__).resolve().parent
+elif bpy.data.filepath:
+    ROOT = Path(bpy.path.abspath("//"))
+else:
+    # Blender's Text Editor may run an unsaved script without __file__. Keep
+    # generated deliverables in a predictable user folder in that case.
+    ROOT = Path.home() / "Amanah-Farm-3D-outputs"
 OUTPUT_DIR = ROOT / "amanah_farm_outputs"
 RENDER_DIR = OUTPUT_DIR / "renders"
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
