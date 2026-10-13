@@ -1,0 +1,16 @@
+{
+  "covered_footprint_m2": 40.0,
+  "open_yard_m2": 40.0,
+  "covered_plus_yard_m2": 80.0,
+  "internal_zones_total_m2": 40.0,
+  "internal_zones_fit_exactly": true,
+  "eaves_height_m": 2.6,
+  "ridge_height_m": 4.0,
+  "roof_pitch_degrees": 29.25,
+  "roof_pitch_approx_30_degrees": true,
+  "main_resting_area_m2": 24.0,
+  "main_area_per_sheep_at_10_head_m2": 2.4,
+  "main_area_per_sheep_at_12_head_m2": 2.0,
+  "welfare_note": "At 12 head, 2.0 m²/head is before subtracting feeders, partitions and circulation; confirm local sheep welfare guidance and flock size.",
+  "technical_status": "DESIGN-DEVELOPMENT MODEL — NOT CONSTRUCTION-READY"
+}

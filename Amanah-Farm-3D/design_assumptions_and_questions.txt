@@ -1,0 +1,44 @@
+AMANAH FARM — DESIGN ASSUMPTIONS AND OUTSTANDING TECHNICAL QUESTIONS
+Location: Manzno village, Anantnag, Kashmir, India
+Model status: architectural design-development study; not a certified construction drawing.
+
+DIMENSIONS USED
+- Covered shed: 8.00 m × 5.00 m = 40.00 m².
+- Open exercise yard: 8.00 m × 5.00 m = 40.00 m².
+- Raised stone plinth: 0.45 m above conceptual adjacent grade.
+- Eaves: 2.60 m; ridge: 4.00 m; calculated roof pitch: approximately 29.25°.
+- Internal provisional zones total exactly 40.00 m²:
+  - Main sheep resting / feeding: 24 m²
+  - Ram pen: 4 m²
+  - Lambing pen: 4 m²
+  - Isolation pen: 3 m²
+  - Dry feed and equipment store: 5 m²
+
+FUNCTIONAL / WELFARE CAVEATS
+- The main resting/feeding zone is 24 m²: 2.40 m²/head at 10 sheep and 2.00 m²/head at 12 sheep before subtracting feeders, partitions and circulation.
+- Confirm whether the intended flock includes pregnant ewes, lambs, a ram, or isolation capacity; welfare density and pen sizes may need adjustment.
+- Confirm door widths, turning clearances, handling route, bedding depth, cleaning access and emergency exit with a livestock specialist or veterinarian.
+
+CLIMATE / STRUCTURAL QUESTIONS
+- Commission a local topographic survey and soil bearing / drainage assessment.
+- Engineer stone foundation depth, footing width, damp-proof separation and timber anchors.
+- Verify snow, wind and seismic actions for the actual Anantnag site; the approximately 30° roof is only a starting point.
+- Confirm timber grade, moisture content, preservative treatment, fire performance and all post/beam/rafter connections.
+- Confirm corrugated roof gauge, fixings, corrosion protection, snow guards, overhangs and gutter sizing.
+- Confirm condensation control, insulation, vapour movement and high-level ventilation in cold wet seasons.
+
+WATER / WASTE / BIOSECURITY QUESTIONS
+- Confirm clean water source, tank sizing, freeze protection and livestock trough hygiene.
+- Keep manure, dirty wash water and compost leachate physically separated from any clean-water system.
+- No manure or dirty water is connected to any proposed trout raceway supply.
+- Design a covered manure/compost pad with an approved leachate and stormwater strategy.
+- Review biosecurity, isolation pen protocol, rodent/predator control and cleaning chemicals.
+
+MATERIAL / MAINTENANCE QUESTIONS
+- Test local stone, willow, clay and straw samples for durability, moisture and repair cycles.
+- Confirm whether exposed wattle can dry adequately on each elevation; use more plaster or a ventilated rainscreen where needed.
+- Detail insect, rodent and livestock-impact protection at the base of wattle infill.
+- Confirm local craftspeople, procurement lead times and repair/replacement strategy.
+
+MODELLING LIMITATION
+The sheep, terrain, orchard and mountains are scale/context placeholders. No precise site elevations, soil conditions, structural capacities, veterinary approvals or planning permissions are invented by this model.
