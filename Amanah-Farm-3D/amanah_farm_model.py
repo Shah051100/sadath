@@ -706,7 +706,7 @@ def create_walls_and_openings():
     # Gables: simpler woven infill, with plaster on the weather-facing lower half.
     create_wattle_panel("Wattle_West_Gable", "y", 0.18, 0.25, 4.75, z0, 2.30,
                         exposed=True, plaster_band=(z0 + 0.05, 1.24))
-    create_wattle_panel("Wattle_East_Gable", "y", 4.82, 0.25, 4.75, z0, 2.30,
+    create_wattle_panel("Wattle_East_Gable", "y", 7.82, 0.25, 4.75, z0, 2.30,
                         exposed=True, plaster_band=(z0 + 0.05, 1.24))
 
     # Main gate on the south side: framed timber leaf with a diagonal brace.
@@ -1350,6 +1350,7 @@ def build_model():
         export_geometry()
     if RENDER_VIEWS:
         render_views(cameras)
+    bpy.context.scene.camera = cameras["CAM_Main_Exterior"]
     if SAVE_BLEND:
         # Save once more after render settings and all visibility states have
         # returned to their editable default state.
